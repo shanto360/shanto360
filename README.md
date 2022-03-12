@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning UI/UX designing
 - 📫 How to reach me www.mhshanto.com 
 
-## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/shanto360?label=Follow&style=social)](https://github.com/shanto360)&nbsp;![Profile views](https://gpvc.arturio.dev/shanto360)
+## :mailbox: Reach me out 
 
 <br />
 

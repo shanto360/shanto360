@@ -48,16 +48,6 @@
 </h2>
 
 
-<br />  
-
-
-
-## :chart_with_upwards_trend: Contribution Graph 
-
-<br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanto360)  
-
 
 <!---
 shanto360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

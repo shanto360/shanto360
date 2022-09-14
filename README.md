@@ -43,7 +43,7 @@
  
 </div>
   
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/shanto360)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shanto360&&theme=xcode)](https://github.com/shanto360)
 
 <!---
 shanto360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

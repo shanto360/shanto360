@@ -6,13 +6,6 @@
 - 🌱 I’m currently learning UI/UX designing
 - 📫 How to reach me www.mhshanto.com 
 
-## :mailbox: Reach me out 
-
-<br />
-
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehedihasanshanto/) [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/profile.shanto) [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/Shanto_360)  [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/shanto.360/) 
-
-<br />
 
 ## :computer: Technologies that I know
 

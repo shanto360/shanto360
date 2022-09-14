@@ -13,7 +13,6 @@
 
 
 
-## Oiii eu sou a Mehedi Hasan Shanto, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/shanto360">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanto360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

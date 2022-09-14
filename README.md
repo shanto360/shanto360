@@ -26,7 +26,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Shanto-picture" height="150" style="border-radius:50rem;" src="https://i.ibb.co/JtbsG1J/280025405-484367446818523-2412596881868180666-n.jpg">
+  <img align="right" alt="Shanto-picture" height="150" style="border-radius:50rem;" src="https://i.ibb.co/JtbsG1J/280025405-484367446818523-2412596881868180666-n.jpg?width=676&height=676">
 </div>
   
   ##

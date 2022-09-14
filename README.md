@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-## :eyes: Current overview      
-<br />
+
+
 
 - 👋 Hi, I’m Mehedi Hasan Shanto
+- </br>
 - 👀 I’m interested in React Native 
 - 🌱 I’m currently learning UI/UX designing
 - 📫 How to reach me www.mhshanto.com 

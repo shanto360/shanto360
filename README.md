@@ -3,7 +3,6 @@
 
 
 - 👋 Hi, I’m Mehedi Hasan Shanto
-- </br>
 - 👀 I’m interested in React Native 
 - 🌱 I’m currently learning UI/UX designing
 - 📫 How to reach me www.mhshanto.com 

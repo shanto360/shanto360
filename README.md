@@ -4,9 +4,16 @@
 
  I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working at ......!
+- :hearts: I enjoy programming and sharing knowledge <br/>
+- :computer: Most used line of code `console.log("hello world")` <br/>
+- 🤔 I’m looking for people who can help me with Outstanding Video ideas and executions<br/>
+- :e-mail: How to reach me: info.mehedihasanshanto@gmail.com<br/>
 - 🌱 I’m working with Angular, Nest.js 
 - 🥅 2023 Goals: Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mehedi+Hasan+Shanto;I'm+17+years+old;I+from+Dhaka,Bangladesh;I+study+systems+development+at+Google;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -52,10 +59,10 @@
 </div>
   
 
--
+<!-- -
 shanto360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
+- -->
 
 
 

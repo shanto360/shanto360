@@ -1,13 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mehedi+Hasan+Shanto;I'm+17+years+old;I+from+Dhaka,Bangladesh;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working at [SELISE Digital Platforms][selise]!
+ I'm a 😍😍 JavaScript Lover 😍😍!
+- 🔭 I’m currently working at ......!
 - 🌱 I’m working with Angular, Nest.js 
 - 🥅 2023 Goals: Microservice, Cloud computing, Software architechture
 - ⚡ Fun fact: I love to Explore the world 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mehedi+Hasan+Shanto;I'm+17+years+old;I+from+Dhaka,Bangladesh;I+study+systems+development+at+Google;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 <div align="center">  
@@ -17,6 +19,7 @@
 
 ### Skills:
 <div style="display: inline_block"><br>
+  
   
  <img align="center" alt="Hasan-Rifat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Hasan-Rifat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -49,15 +52,12 @@
 </div>
   
 
-<!---
+-
 shanto360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-
 
 
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=shanto360&theme=gotham&hide_border=true&area=true)
 
  
 <div align="center">
